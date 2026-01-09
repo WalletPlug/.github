@@ -3,9 +3,9 @@
   <p><strong>Launch send and accept global payments in minutes with one powerful API</strong></p>
 
   <p>
-    <a href="https://walletplug/api-docs">API Documentation</a>
+    <a href="https://walletplug.com/api-docs">API Documentation</a>
     &nbsp;•&nbsp;
-    <a href="https://walletplug">Website</a>
+    <a href="https://walletplug.com">Website</a>
     &nbsp;•&nbsp;
     <a href="mailto:support@walletplug.com">Support</a>
   </p>
@@ -34,7 +34,7 @@ Everything you need to integrate WalletPlug, test in sandbox, and go live.
 
 <p>
 <strong>API Docs</strong><br>
-<a href="https://walletplug/api-docs">walletplug/api-docs</a>
+<a href="https://walletplug.com/api-docs">walletplug/api-docs</a>
 </p>
 
 <h2>Get Started</h2>
@@ -52,7 +52,7 @@ Need help with integration, plugins, webhooks, or going live
 
 <p>
 <strong>Email</strong><br>
-<a href="mailto:support@walletplug">support@walletplug</a>
+<a href="mailto:support@walletplug.com">support@walletplug.com</a>
 </p>
 
 <hr>
