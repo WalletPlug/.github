@@ -7,7 +7,7 @@
     &nbsp;•&nbsp;
     <a href="https://walletplug">Website</a>
     &nbsp;•&nbsp;
-    <a href="mailto:support@walletplug">Support</a>
+    <a href="mailto:support@walletplug.com">Support</a>
   </p>
 </div>
 
